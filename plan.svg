@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.2350582"
      inkscape:cx="526.1811"
-     inkscape:cy="339.66011"
+     inkscape:cy="372.04724"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -171,5 +171,48 @@
        height="55.429878"
        x="868.58911"
        y="975.62097" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="984.56897"
+       y="1009.4492"
+       id="text4307"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309"
+         x="984.56897"
+         y="1009.4492">1:50</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.24015749;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 107.89415,945.48462 87.51609,0 c 5.49738,0 9.92307,4.42568 9.92307,9.92306 l 0,41.10137 -107.362218,0 0,-41.10137 c 0,-5.49738 4.425688,-9.92306 9.923058,-9.92306 z"
+       id="rect4311"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="752.19128"
+       y="407.85815"
+       id="text4315"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4317"
+         x="752.19128"
+         y="407.85815">desk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.11627"
+       y="969.77496"
+       id="text4319"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4321"
+         x="110.11627"
+         y="969.77496">sofa</tspan><tspan
+         sodipodi:role="line"
+         x="110.11627"
+         y="988.52496"
+         id="tspan4323" /></text>
   </g>
 </svg>
